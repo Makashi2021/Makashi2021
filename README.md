@@ -1,3 +1,8 @@
+# Discord 
+[![Discord Presence](https://lanyard.cnrad.dev/api/577985634359050251)](https://discord.com/users/577985634359050251)
+
+
+
 # 💫 About Me:
 - 🔭 I’m currently working on [Enscheduled](https://github.com/MakashiDev/Enscheduled)<br><br>- 🌱 I’m currently learning **React, and AWS**<br><br>- 🤝 I’m looking for help with [Enscheduled](https://github.com/MakashiDev/Enscheduled)<br><br>- 👨‍💻 All of my projects are available at [https://github.com/MakashiDev](https://github.com/MakashiDev)
 
